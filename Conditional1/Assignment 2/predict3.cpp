@@ -1,15 +1,11 @@
 #include <iostream>
 using namespace std;
-int main(){
+int main() {
 
-if ('a')
-
-cout<<"hello";
-
+   int a = 5;
+if (a > 10);
 else
-
-cout << "World";
+cout << "Hello";
 
 return 0;
-
 }
